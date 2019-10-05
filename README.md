@@ -41,7 +41,7 @@ Cinnamoon is a full stack E-commerce App built as result of a project based cour
 
 # credits
 
-- Project and Online Classes: Complete React Developer in 2019 Course by Andrei Neagoie
+- Project and Online Classes: Complete React Developer in 2019 by Andrei Neagoie and Yihua Zhang
 
 #
 
