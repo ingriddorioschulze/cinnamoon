@@ -4,7 +4,7 @@ Cinnamoon is a full stack E-commerce App built as result of a project based cour
 
 # features
 
-## comming soon
+## coming soon
 
 # technologies
 
